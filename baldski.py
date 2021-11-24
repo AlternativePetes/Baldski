@@ -1,3 +1,5 @@
+#Test Run success
+print("test")
 #Import  library
 from ursina import *
 from ursina.prefabs.first_person_controller import *
